@@ -8,7 +8,8 @@ Structure-based analyses of Salmonella RcsB variants unravel new features of the
 Juanjo Huesa1,2†, Joaquín Giner-Lamia3,4† M. Graciela Pucciarelli3,5, Francisco Paredes-Martínez1,2  
 Francisco García-del Portillo3*, Alberto Marina6,7* and Patricia Casino1,2,7*.
 
-1Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 2Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI BIOTECMED), Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain. 
+1Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 
+2Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI BIOTECMED), Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain. 
 3Laboratorio de Patógenos Bacterianos Intracelulares. Centro Nacional de Biotecnología (CNB)-CSIC. Darwin, 3. 28049 Madrid. Spain.
 4Centro de Biotecnología y Genómica de Plantas (CBGP, UPM-INIA), Universidad Politécnica de Madrid (UPM), Campus Montegancedo-UPM, E-28223 Pozuelo de Alarcón, Madrid, Spain
 5Centro de Biología Molecular ’Severo Ochoa’ (CBMSO)-CSIC. Departamento de Biología Molecular. Universidad Autónoma de Madrid, Madrid, Spain.
