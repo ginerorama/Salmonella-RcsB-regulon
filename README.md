@@ -24,7 +24,7 @@ Francisco García-del Portillo<sup>3*</sup>, Alberto Marina<sup>6,7*</sup> and P
 
 ## find_motif.py
 
-# A Python script to find and annotate RcsB DNA binding motifs in *Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome* 
+### A Python script to find and annotate RcsB DNA binding motifs in *Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome* 
 
 Joaquin Giner Lamia 2020
 
