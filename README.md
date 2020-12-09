@@ -20,4 +20,50 @@ Francisco García-del Portillo3*, Alberto Marina6,7* and Patricia Casino1,2,7*.
 
 
 
+### find_motif.py
 
+**Script to find and annotates RcsB DNA binding motifs in Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome**
+
+Joaquin Giner Lamia 2020
+
+**usage:**
+
+`python find_motif.py`
+
+**Required modules:**
+
+Biopython
+
+
+
+**Required files:**
+
+*SL1344.gbk*   
+
+​	Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genbank file
+
+​	Accession: NC_016810
+
+​	Assembly: GCF_000210855.2
+
+Salmonella_TSS.tsv
+
+​	Retrieved from http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL
+
+
+
+**output format:**
+
+Header of result table:
+
+	RcsB_genomic_position
+	strand of genomic feature associated with the RcsB motif site
+	RcsB motif site region (intragenic or itergenic)
+	Relative position of motif site respect to ATG codon
+	List of relative positions for each motif respect to TSS or TSSs (in case the locus has more than one TSS) 
+	Sequence of RcsB motif site
+	Locus
+	motif start
+	motif end
+	gene common name
+	description
