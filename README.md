@@ -5,16 +5,16 @@ presented in the article:
 
 ### Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
 
-Juanjo Huesa1,2†, Joaquín Giner-Lamia3,4† M. Graciela Pucciarelli3,5, Francisco Paredes-Martínez1,2  
-Francisco García-del Portillo3*, Alberto Marina6,7* and Patricia Casino1,2,7*.
+Juanjo Huesa<sup>1</sup>1,<sup>2</sup>†, Joaquín Giner-Lamia<sup>3,4†</sup> M. Graciela Pucciarelli<sup>3,5</sup>, Francisco Paredes-Martínez<sup>1,2</sup>  
+Francisco García-del Portillo<sup>3*</sup>, Alberto Marina<sup>6,7*</sup> and Patricia Casino<sup>1,2,7*</sup>
 
-1Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 
-2Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI BIOTECMED), Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain. 
-3Laboratorio de Patógenos Bacterianos Intracelulares. Centro Nacional de Biotecnología (CNB)-CSIC. Darwin, 3. 28049 Madrid. Spain.
-4Centro de Biotecnología y Genómica de Plantas (CBGP, UPM-INIA), Universidad Politécnica de Madrid (UPM), Campus Montegancedo-UPM, E-28223 Pozuelo de Alarcón, Madrid, Spain
-5Centro de Biología Molecular ’Severo Ochoa’ (CBMSO)-CSIC. Departamento de Biología Molecular. Universidad Autónoma de Madrid, Madrid, Spain.
-6Department of Genomic and Proteomic, Instituto de Biomedicina de Valencia (IBV-CSIC), Jaume Roig 11, 46010 Valencia, Spain; 
-7Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.
+<sup>1</sup>Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 
+<sup>2</sup>Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI BIOTECMED), Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain. 
+<sup>3</sup>Laboratorio de Patógenos Bacterianos Intracelulares. Centro Nacional de Biotecnología (CNB)-CSIC. Darwin, 3. 28049 Madrid. Spain.
+<sup>4</sup>Centro de Biotecnología y Genómica de Plantas (CBGP, UPM-INIA), Universidad Politécnica de Madrid (UPM), Campus Montegancedo-UPM, E-28223 Pozuelo de Alarcón, Madrid, Spain
+<sup>5</sup>Centro de Biología Molecular ’Severo Ochoa’ (CBMSO)-CSIC. Departamento de Biología Molecular. Universidad Autónoma de Madrid, Madrid, Spain.
+<sup>6</sup>Department of Genomic and Proteomic, Instituto de Biomedicina de Valencia (IBV-CSIC), Jaume Roig 11, 46010 Valencia, Spain; 
+<sup>7</sup>Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.
 
 †These authors contributed equally to the paper as first authors.
 
