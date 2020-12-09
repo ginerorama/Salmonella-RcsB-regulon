@@ -46,7 +46,7 @@ Biopython
 
 ​	Assembly: GCF_000210855.2
 
-Salmonella_TSS.tsv
+*Salmonella_TSS.tsv*
 
 ​	Retrieved from http://bioinf.gen.tcd.ie/cgi-bin/salcom.pl?_HL
 
