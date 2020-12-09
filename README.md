@@ -3,7 +3,7 @@
 This repository provides access to the script used to scan RcsB motif sites in Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome 
 presented in the article:
 
-Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
+###Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
 
 Juanjo Huesa1,2†, Joaquín Giner-Lamia3,4† M. Graciela Pucciarelli3,5, Francisco Paredes-Martínez1,2  
 Francisco García-del Portillo3*, Alberto Marina6,7* and Patricia Casino1,2,7*.
