@@ -5,10 +5,10 @@ presented in the article:
 
 ### Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
 
-Juanjo Huesa<sup>1</sup>1,<sup>2</sup>†, Joaquín Giner-Lamia<sup>3,4†</sup> M. Graciela Pucciarelli<sup>3,5</sup>, Francisco Paredes-Martínez<sup>1,2</sup>  
+Juanjo Huesa<sup>1</sup>,<sup>2</sup>†, Joaquín Giner-Lamia<sup>3,4†</sup> M. Graciela Pucciarelli<sup>3,5</sup>, Francisco Paredes-Martínez<sup>1,2</sup>  
 Francisco García-del Portillo<sup>3*</sup>, Alberto Marina<sup>6,7*</sup> and Patricia Casino<sup>1,2,7*</sup>
 
-<sup>1</sup>Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 
+<sup><sup>1</sup>Departamento de Bioquímica y Biología Molecular, Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain; 
 <sup>2</sup>Estructura de Recerca Interdisciplinar en Biotecnologia i Biomedicina (ERI BIOTECMED), Universitat de València. Dr Moliner 50, 46100 Burjassot, Spain. 
 <sup>3</sup>Laboratorio de Patógenos Bacterianos Intracelulares. Centro Nacional de Biotecnología (CNB)-CSIC. Darwin, 3. 28049 Madrid. Spain.
 <sup>4</sup>Centro de Biotecnología y Genómica de Plantas (CBGP, UPM-INIA), Universidad Politécnica de Madrid (UPM), Campus Montegancedo-UPM, E-28223 Pozuelo de Alarcón, Madrid, Spain
@@ -16,7 +16,7 @@ Francisco García-del Portillo<sup>3*</sup>, Alberto Marina<sup>6,7*</sup> and P
 <sup>6</sup>Department of Genomic and Proteomic, Instituto de Biomedicina de Valencia (IBV-CSIC), Jaume Roig 11, 46010 Valencia, Spain; 
 <sup>7</sup>Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.
 
-†These authors contributed equally to the paper as first authors.
+†These authors contributed equally to the paper as first authors.</sup>
 
 
 
