@@ -14,11 +14,12 @@ Francisco García-del Portillo<sup>3*</sup>, Alberto Marina<sup>6,7*</sup> and P
 <sup>4</sup>Centro de Biotecnología y Genómica de Plantas (CBGP, UPM-INIA), Universidad Politécnica de Madrid (UPM), Campus Montegancedo-UPM, E-28223 Pozuelo de Alarcón, Madrid, Spain
 <sup>5</sup>Centro de Biología Molecular ’Severo Ochoa’ (CBMSO)-CSIC. Departamento de Biología Molecular. Universidad Autónoma de Madrid, Madrid, Spain.
 <sup>6</sup>Department of Genomic and Proteomic, Instituto de Biomedicina de Valencia (IBV-CSIC), Jaume Roig 11, 46010 Valencia, Spain; 
-<sup>7</sup>Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.
+<sup>7</sup>Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.</sup>
 
-†These authors contributed equally to the paper as first authors.</sup>
+<sup>†These authors contributed equally to the paper as first authors.</sup>
 
 
+<br>
 
 ### find_motif.py
 
