@@ -1,7 +1,7 @@
 # Salmonella-RcsB-regulon
 
-This repository provides access to the data and the scripts used in the paper:
-
+This repository provides access to the script used to scan RcsB motif sites in Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome 
+presented in the article:
 
 Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
 
@@ -17,5 +17,7 @@ Francisco García-del Portillo3*, Alberto Marina6,7* and Patricia Casino1,2,7*.
 7Group 739 of the Centro de Investigación Biomédica en Red sobre Enfermedades Raras (CIBERER) del Instituto de Salud Carlos III, Spain.
 
 †These authors contributed equally to the paper as first authors.
+
+
 
 
