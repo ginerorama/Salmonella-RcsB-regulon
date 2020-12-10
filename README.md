@@ -1,6 +1,6 @@
 # Salmonella RcsB Regulon Finder
 
-This repository provides access to the script used to scan RcsB motif sites in Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome 
+This repository provides access to the script used to scan RcsB motif sites in *Salmonella enterica subsp. enterica serovar Typhimurium SL1344 genome 
 presented in the article:
 
 ### Structure-based analyses of Salmonella RcsB variants unravel new features of the Rcs regulon
